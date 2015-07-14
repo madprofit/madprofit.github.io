@@ -8,3 +8,6 @@ short-description: track police badge numbers and encounters
 
 {:.center}
 ![]({{ site.baseurl }}/img/COP_WATCH_THUMB.png)
+
+##Case Study
+
