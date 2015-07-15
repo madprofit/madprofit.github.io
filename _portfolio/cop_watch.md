@@ -1,7 +1,7 @@
 ---
 layout: post
 title: cop_watch_app
-thumbnail-path: "img/blocitoff.png"
+thumbnail-path: "img/COP-WATCH_THUMB.png"
 short-description: track police badge numbers and encounters
 
 ---
