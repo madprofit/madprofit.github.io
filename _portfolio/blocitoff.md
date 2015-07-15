@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Blocitoff
-thumbnail-path: "img/blocitoff.png"
+thumbnail-path: "img/COP-WATCH_THUMB.png"
 short-description: Build a self-destructing to-do list application.
 
 ---
 
 {:.center}
-![]({{ site.baseurl }}/img/blocitoff.png)
+![]({{ site.baseurl }}/COP-WATCH_THUMB.png)
 
 ## Explanation
 
