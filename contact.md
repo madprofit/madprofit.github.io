@@ -7,7 +7,7 @@ feature-img: "img/color.png"
 
 Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. Kielbasa andouille fatback salami, boudin bresaola pig alcatra turkey spare ribs jerky. Corned beef bresaola leberkas salami alcatra beef landjaeger venison shank bacon meatloaf beef ribs picanha. Leberkas sausage brisket porchetta shankle prosciutto chicken picanha kielbasa pig kevin t-bone turducken filet mignon jowl.
 
-<form action="https://getsimpleform.com/messages?d09171cebde036e01d81a04b70b2e583" method="post">
+<form action="https://getsimpleform.com/messages?api_token=8b9e254b25c24c8b88a0de59f45e1626" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
   <input type='hidden' name='redirect_to' value='http://madprofit.github.io/thank-you/'/>
   <input type='text' name='name' placeholder='Your Full Name' />
