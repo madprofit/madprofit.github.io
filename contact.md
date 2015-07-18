@@ -9,7 +9,7 @@ Bacon ipsum dolor amet filet mignon meatball spare ribs fatback bacon shankle. K
 
 <form action="https://getsimpleform.com/messages?api_token=8b9e254b25c24c8b88a0de59f45e1626" method="post">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='https://github.com/madprofit/portfolio-kami/thank-you/'/>
+  <input type='hidden' name='redirect_to' value='https://github.com/madprofit/portfolio-kami/blob/master/thank-you/'/>
   <input type='text' name='name' placeholder='Your Full Name' />
   <input type='email' name='email' placeholder='Your E-mail Address' />
   <textarea name='message' placeholder='Write your message ...'></textarea>
