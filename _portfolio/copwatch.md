@@ -7,4 +7,4 @@ short-description: Build a self-destructing to-do list application.
 ---
 
 {:.center}
-![]({{ site.baseurl }}/COP-WATCH_THUMB.png)
+![]({{ site.baseurl }}/img/COP-WATCH_THUMB.png)
